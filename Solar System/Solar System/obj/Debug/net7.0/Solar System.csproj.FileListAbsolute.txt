@@ -29,6 +29,6 @@ A:\COLLEGE\3rd grade\Computer graphics\Project\Solar System\Solar System\obj\Deb
 A:\COLLEGE\3rd grade\Computer graphics\Project\Solar System\Solar System\obj\Debug\net7.0\Solar System.pdb
 A:\COLLEGE\3rd grade\Computer graphics\Project\Solar System\Solar System\obj\Debug\net7.0\Solar System.genruntimeconfig.cache
 A:\COLLEGE\3rd grade\Computer graphics\Project\Solar System\Solar System\obj\Debug\net7.0\ref\Solar System.dll
-C:\Users\Vega Laptop\Documents\GitHub\Computer-Graphics-Project\Solar System\Solar System\obj\Debug\net7.0\Solar System.dll
-C:\Users\Vega Laptop\Documents\GitHub\Computer-Graphics-Project\Solar System\Solar System\obj\Debug\net7.0\refint\Solar System.dll
-C:\Users\Vega Laptop\Documents\GitHub\Computer-Graphics-Project\Solar System\Solar System\obj\Debug\net7.0\Solar System.pdb
+C:\Users\Vega Laptop\Documents\GitHub\Solar-System\Solar System\Solar System\obj\Debug\net7.0\Solar System.dll
+C:\Users\Vega Laptop\Documents\GitHub\Solar-System\Solar System\Solar System\obj\Debug\net7.0\refint\Solar System.dll
+C:\Users\Vega Laptop\Documents\GitHub\Solar-System\Solar System\Solar System\obj\Debug\net7.0\Solar System.pdb

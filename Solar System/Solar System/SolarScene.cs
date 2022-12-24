@@ -259,8 +259,6 @@ namespace Solar_System
 
             camera.Fov -= e.OffsetY;
         }
-
-        //need to update once moons' data is ready
         private Planet sun = new Planet("sun");
         public void planetMoon(string planet, int num)
         {
@@ -268,7 +266,7 @@ namespace Solar_System
             planets.Add(p)
             for (int i = 1; i <= num; i++)
             {
-                Planet moon = new Planet("moon" + (string) i, p);
+                Planet moon = new Planet("moon" + i, p);
                 planets.Add(moon)
             }
         }
